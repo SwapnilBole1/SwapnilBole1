@@ -1,4 +1,4 @@
-![MasterHead](https://assets.telegraphindia.com/telegraph/2022/Mar/1647080461_resized6.jpg)
+![MasterHead](https://knowledge.wharton.upenn.edu/wp-content/uploads/2020/05/Women-in-data-science-900x387.jpg)
 <h1 align="center">Hi 👋, I'm Swapnil Bole</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
