@@ -1,4 +1,4 @@
-![MasterHead](https://www.sharda.ac.in/blog/wp-content/uploads/2020/04/Data-Science-1.jpg)
+![MasterHead](https://assets.telegraphindia.com/telegraph/2022/Mar/1647080461_resized6.jpg)
 <h1 align="center">Hi 👋, I'm Swapnil Bole</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
